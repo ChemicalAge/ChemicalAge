@@ -1,6 +1,6 @@
 - Hey, I’m @ChemicalAge
-- I’m interested in creating video games and bots
-- I’m currently learning C# and Python
+- I’m creating websites and scripts
+- I’m currently learning Python, HTML, CSS
 
 <!---
 ChemicalAge/ChemicalAge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
